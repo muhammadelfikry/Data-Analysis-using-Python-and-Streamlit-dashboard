@@ -58,12 +58,12 @@ def create_cluster_df(df):
     return cluster_df
 
 # load dataset
-day_df = pd.read_csv("./dashboard/dataset/day.csv")
-monthly_df = pd.read_csv("./dashboard/dataset/monthly.csv")
-quarter_df = pd.read_csv("./dashboarddataset/quarter.csv")
-cluster_df = pd.read_csv("./dashboard/dataset/cluster.csv")
-season_df = pd.read_csv("./dashboard/dataset/season.csv")
-weathersit_df = pd.read_csv("./dashboard/dataset/weathersit.csv")
+day_df = pd.read_csv("dashboard/dataset/day.csv")
+monthly_df = pd.read_csv("dashboard/dataset/monthly.csv")
+quarter_df = pd.read_csv("dashboard/dataset/quarter.csv")
+cluster_df = pd.read_csv("dashboard/dataset/cluster.csv")
+season_df = pd.read_csv("dashboard/dataset/season.csv")
+weathersit_df = pd.read_csv("dashboard/dataset/weathersit.csv")
 
 day_df["dteday"] = pd.to_datetime(day_df["dteday"])
 monthly_df["dteday"] = pd.to_datetime(monthly_df["dteday"])
