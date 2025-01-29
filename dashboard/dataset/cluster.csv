@@ -1,0 +1,25 @@
+,dteday,cnt,category
+0,2011-01-31,38189,Low Transaction
+1,2011-02-28,48215,Low Transaction
+2,2011-03-31,64045,Low Transaction
+3,2011-04-30,94870,Low Transaction
+4,2011-05-31,135821,Low Transaction
+5,2011-06-30,143512,Medium Transaction
+6,2011-07-31,141341,Medium Transaction
+7,2011-08-31,136691,Low Transaction
+8,2011-09-30,127418,Low Transaction
+9,2011-10-31,123511,Low Transaction
+10,2011-11-30,102167,Low Transaction
+11,2011-12-31,87323,Low Transaction
+12,2012-01-31,96744,Low Transaction
+13,2012-02-29,103137,Low Transaction
+14,2012-03-31,164875,Medium Transaction
+15,2012-04-30,174224,Medium Transaction
+16,2012-05-31,195865,High Transaction
+17,2012-06-30,202830,High Transaction
+18,2012-07-31,203607,High Transaction
+19,2012-08-31,214503,High Transaction
+20,2012-09-30,218573,High Transaction
+21,2012-10-31,198841,High Transaction
+22,2012-11-30,152664,Medium Transaction
+23,2012-12-31,123713,Low Transaction
